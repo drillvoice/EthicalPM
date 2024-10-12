@@ -323,3 +323,15 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+# Minimal Mistakes theme settings
+minimal_mistakes:
+  background_color: "#F4EAE2"  # Replace this with your desired background color
+  text_color: "#3E3932"  # Replace this with your desired text color
+  heading_color: "#4D7162"  # Replace this with your desired heading color
+  navigation:
+    - title: Home
+      url: /
+    - title: How we're different
+      url: /difference/
